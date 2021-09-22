@@ -57,7 +57,7 @@ int main(){
                 printf("YES\n");
                 flag = 1;
                 break;
-            }
+           }
         }
         if(flag==0){
             printf("NO\n");
