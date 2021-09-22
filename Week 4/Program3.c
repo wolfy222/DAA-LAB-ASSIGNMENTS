@@ -14,7 +14,8 @@ int ksmallest(int *a,int l,int r,int k){
 int partition(int *a,int l,int r){
     int p = a[r];
     int i = l-1;
-    for(int j=l;j<r;j++){
+    for(int j=l;j<r;j++)
+    {
         if(a[j]<p){
             i++;
             int temp = a[i];
