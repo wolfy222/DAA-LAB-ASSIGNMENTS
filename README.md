@@ -2,7 +2,7 @@
 This repository is created for Programs and Assignments of the Design and Analysis of Algorithms.
 
 # Student Details
-NAME: Aadarsh Agarwal
+NAME: AADARSH AGARWAL
 <br/>
 SECTION: DS
 <br/>
