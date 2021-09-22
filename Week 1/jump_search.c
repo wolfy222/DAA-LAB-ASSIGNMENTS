@@ -37,7 +37,7 @@ int main()
             }
         }
         if(flag==0)
-            printf("NOT PRESENT %d\n",count);
+           printf("NOT PRESENT %d\n",count);
     }
     return 0;
 }
